@@ -5,22 +5,22 @@ const Cards = () => {
   const collectionItems = [
     {
       title: "CyberPunk",
-      image: "/assets/images/monkey_gard.png",
+      image: "assets/images/monkey_gard.png",
       category: "gaming",
     },
     {
       title: "DuroLost Boll-Upper",
-      image: "/assets/images/astronot_2.png",
+      image: "assets/images/astronot_2.png",
       category: "sport",
     },
     {
       title: "Space X Wiper",
-      image: "/assets/images/astronot_profil.png",
+      image: "assets/images/astronot_profil.png",
       category: "art",
     },
     {
       title: "Snopp Dogg",
-      image: "/assets/images/snopp-dog.png",
+      image: "assets/images/snopp-dog.png",
       category: "celebritie",
     },
   ];
@@ -28,19 +28,19 @@ const Cards = () => {
   const servicesItems = [
     {
       title: "Set up your wallet",
-      image: "/assets/images/wallet-02.png",
+      image: "assets/images/wallet-02.png",
     },
     {
       title: "Add your NFT's",
-      image: "/assets/images/cloud-download.png",
+      image: "assets/images/cloud-download.png",
     },
     {
       title: "Promote your NTF's",
-      image: "/assets/images/sale-tag-02.png",
+      image: "assets/images/sale-tag-02.png",
     },
     {
       title: "Sell your NTF's",
-      image: "/assets/images/bitcoin-ellipse.png",
+      image: "assets/images/bitcoin-ellipse.png",
     },
   ];
 
@@ -147,7 +147,7 @@ const Cards = () => {
               <div className="w-full flex items-center justify-between text-base md:text-lg text-custom-neutral-800 font-bold">
                 {item.title}
                 <img
-                  src="/assets/images/ethereum-ellipse.png"
+                  src="assets/images/ethereum-ellipse.png"
                   alt="ethereum"
                   className="w-8 h-auto "
                 />

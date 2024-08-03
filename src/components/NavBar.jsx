@@ -124,7 +124,7 @@ const NavBar = () => {
       {/* Hamburger Toggle */}
       <div className="xl:hidden py-2 w-full flex items-center justify-between ">
         <motion.img
-          src="/assets/images/Frame@2x.png"
+          src="assets/images/Frame@2x.png"
           alt="logo"
           animate={{ opacity: 1, x: 0 }}
           initial={{ opacity: 0, x: -25 }}

@@ -33,7 +33,7 @@ const Footers = () => {
         className="w-full flex flex-col items-start justify-between gap-6"
       >
         <motion.img
-          src="/assets/images/Frame@2x.png"
+          src="assets/images/Frame@2x.png"
           alt="logo"
           animate={{ opacity: 1, x: 0 }}
           initial={{ opacity: 0, x: -25 }}
