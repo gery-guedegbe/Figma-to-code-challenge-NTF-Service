@@ -33,5 +33,5 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/gery-guedegbe/figma-to-code-challenge:ntf-service.git
+   git clone https://github.com/gery-guedegbe/Figma-to-code-challenge-NTF-Service.git
    ```
