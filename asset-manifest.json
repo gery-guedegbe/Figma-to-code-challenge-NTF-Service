@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Figma-to-code-challenge-NTF-Service/static/css/main.ae5e9c5b.css",
-    "main.js": "/Figma-to-code-challenge-NTF-Service/static/js/main.ed10aad2.js",
+    "main.js": "/Figma-to-code-challenge-NTF-Service/static/js/main.46c06b41.js",
     "static/js/453.c67cba0d.chunk.js": "/Figma-to-code-challenge-NTF-Service/static/js/453.c67cba0d.chunk.js",
     "static/media/astronot.png": "/Figma-to-code-challenge-NTF-Service/static/media/astronot.bf5ba27b84f0cd20e565.png",
     "index.html": "/Figma-to-code-challenge-NTF-Service/index.html",
     "main.ae5e9c5b.css.map": "/Figma-to-code-challenge-NTF-Service/static/css/main.ae5e9c5b.css.map",
-    "main.ed10aad2.js.map": "/Figma-to-code-challenge-NTF-Service/static/js/main.ed10aad2.js.map",
+    "main.46c06b41.js.map": "/Figma-to-code-challenge-NTF-Service/static/js/main.46c06b41.js.map",
     "453.c67cba0d.chunk.js.map": "/Figma-to-code-challenge-NTF-Service/static/js/453.c67cba0d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae5e9c5b.css",
-    "static/js/main.ed10aad2.js"
+    "static/js/main.46c06b41.js"
   ]
 }
